@@ -11,7 +11,7 @@
     "mongoose": "^5.13.17",
     "mongoose-float": "^1.0.4",
     "mongoose-long": "^0.3.2",
-    "p-map": "6.0.0",
+    "p-map": "4.0.0",
     "pluralize": "^8.0.0",
     "semver": "7.5.1",
     "strapi-utils": "ssh://git@github.com/game-school/strapi-utils.git"
