@@ -10,10 +10,10 @@
     "lodash": "4.17.21",
     "mongoose": "^5.13.17",
     "mongoose-float": "^1.0.4",
-    "mongoose-long": "^0.3.2",
+    "mongoose-long": "^0.7.1",
     "p-map": "4.0.0",
     "pluralize": "^8.0.0",
-    "semver": "7.5.1",
+    "semver": "^7.5.4",
     "strapi-utils": "ssh://git@github.com/game-school/strapi-utils.git"
   },
   "engines": {
